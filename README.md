@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Farman Ghogha
 
-**.NET Developer | Angular Enthusiast | Full-Stack Craftsman**
+**.NET Developer | Angular Enthusiast | End-to-End Developer**
 
 Welcome to my GitHub! I'm a passionate software developer with experience in creating robust and scalable web applications using modern frameworks and technologies. I specialize in:
 
